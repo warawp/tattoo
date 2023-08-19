@@ -1,0 +1,33 @@
+@font-face {
+    font-family: Anup;
+    src: url(../font_wp/Anuphan-Regular.woff);
+    /* ไทย*/
+}
+
+section {
+    font-family: Anup;
+}
+
+
+/* @font-face {
+    font-family: Ramp;
+    src: url(../font_wp/RampartOne-Regular.woff);
+} */
+
+
+/* .main_body_content {
+    font-family: Ramp;
+} */
+
+@font-face {
+    font-family: Prompt-SemiBold;
+    src: url(../font_wp/Prompt-SemiBold.woff);
+}
+
+section {
+    font-family: Prompt-SemiBold;
+}
+
+h1 {
+    font-family: Prompt-SemiBold;
+}
